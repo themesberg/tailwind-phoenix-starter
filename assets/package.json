@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-phoenix-starter",
+  "version": "1.0.0",
+  "description": "To start your Phoenix server:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themesberg/tailwind-phoenix-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themesberg/tailwind-phoenix-starter/issues"
+  },
+  "homepage": "https://github.com/themesberg/tailwind-phoenix-starter#readme",
+  "dependencies": {
+    "flowbite": "^1.6.3"
+  }
+}
