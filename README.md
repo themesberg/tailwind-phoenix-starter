@@ -1,4 +1,6 @@
-# ProjectName
+# Phoenix + Tailwind CSS + Flowbite starter kit
+
+This repository is the end result of the [Phoenix, Tailwind CSS and Flowbite integration guide](https://flowbite.com/docs/getting-started/phoenix/).
 
 To start your Phoenix server:
 
@@ -17,3 +19,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+  * Tailwind CSS: https://tailwindcss.com
+  * Flowbite: https://flowbite.com
