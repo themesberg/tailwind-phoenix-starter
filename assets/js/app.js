@@ -18,7 +18,7 @@
 //     import "some-package"
 //
 
-import "flowbite"
+import "flowbite/dist/flowbite.phoenix.js";
 
 // Include phoenix_html to handle method=PUT/DELETE in forms and buttons.
 import "phoenix_html"
