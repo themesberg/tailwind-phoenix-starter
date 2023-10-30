@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/themesberg/tailwind-phoenix-starter#readme",
   "dependencies": {
-    "flowbite": "^1.6.5"
+    "flowbite": "^2.0.0"
   }
 }
